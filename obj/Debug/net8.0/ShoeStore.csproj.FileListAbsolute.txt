@@ -1028,3 +1028,4 @@ C:\Users\artin\OneDrive\Desktop\C# Projects\Practice\ShoeStore\obj\Debug\net8.0\
 C:\Users\artin\OneDrive\Desktop\C# Projects\Practice\ShoeStore\obj\Debug\net8.0\refint\ShoeStore.dll
 C:\Users\artin\OneDrive\Desktop\C# Projects\Practice\ShoeStore\obj\Debug\net8.0\ShoeStore.pdb
 C:\Users\artin\OneDrive\Desktop\C# Projects\Practice\ShoeStore\obj\Debug\net8.0\ref\ShoeStore.dll
+C:\Users\artin\OneDrive\Desktop\C# Projects\Practice\ShoeStore\obj\Debug\net8.0\ShoeStore.sourcelink.json

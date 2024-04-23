@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ShoeStore",
   "resources": {
-    "hash": "sha256-kc+udoeMcOC/wsEP9zntnF6g7fZWdVf1PaiVhEtq6t8=",
+    "hash": "sha256-5tTcd2rzUh+bJRImxe1XDmWCq2N8P8WJiTDSp3AedLc=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.x3ke16drne.js": "sha256-D4sYBYmDfH/YekgYRgX959/2RG6k28sJSHmcsn+iikk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-/xjZuJwCmantx5vGyH5ZZ8keySSTeu+YHKQRJbZzcuM=",
       "netstandard.wasm": "sha256-vuFKmCGJbyv85DrzI6S1ZvCikuhIllH6hqbXIL+fUAA=",
       "System.Private.CoreLib.wasm": "sha256-SZkozEDkHEFN0VaDmhl2HOenGaqTOmHqEGkraz3Aejc=",
-      "ShoeStore.wasm": "sha256-pPTIO0kuQFHzbX/UP3p0HtLgKDeTi4/uBsX+qHGW3lA="
+      "ShoeStore.wasm": "sha256-c+ApQdjVL/iUbZa8zSgmi/mF0PIVuk3L0JvKaoaWYmI="
     },
     "pdb": {
-      "ShoeStore.pdb": "sha256-CrIJ0U6cdPDqnHHVMkeokGA0DSls7DrFEh69/4mEfhQ="
+      "ShoeStore.pdb": "sha256-jcDqUy1ZG+3+/nFA0DRjTwAKhQmIYBZcJPUJJDjaZMQ="
     }
   },
   "cacheBootResources": true,
