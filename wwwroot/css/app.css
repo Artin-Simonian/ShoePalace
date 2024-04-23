@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url("https://wallpapers.com/images/hd/grey-aesthetic-texture-z9v3sztd6bw4llxb.jpg");
+}
+
+.cards-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  height: 280px;
+  width: 300px;
+  margin: 10px;
+  box-shadow: #000 1px -1px;
+}
+
+.card img {
+  height: 150px;
+  width: 250px;
+  text-align: center;
+}
+
+.card h2 {
+  text-align: center;
+}
+
+.card-img{
+    text-align: center;
+}
+
+.card button{
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    background-color: #fff;
+}
+
+.card button:hover{
+    background-color: #000;
+    color: #fff;
+}
